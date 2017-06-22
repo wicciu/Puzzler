@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Puzzler</string>
+    <string name="restart">Restart</string>
+    <string name="error_image">Image could not be loaded</string>
+    <string name="show_hints">Show hints</string>
+    <string name="hide_hints">Hide hints</string>
+    <string name="congratulations">Congratulations</string>
+    <string name="your_score">Your score:</string>
+    <string name="try_again">Try again</string>
+    <string name="your_time">Your time:</string>
+    <string name="moves">Nr of moves:</string>
+</resources>

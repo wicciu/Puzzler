@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Puzzler</string>
+    <string name="congratulations">Gratulacje</string>
+    <string name="error_image">Obrazek nie został załadowany</string>
+    <string name="hide_hints">Ukryj wskazówki</string>
+    <string name="moves">Liczba ruchów:</string>
+    <string name="restart">Restart</string>
+    <string name="show_hints">Pokaż wskazówki</string>
+    <string name="try_again">Spróbuj jeszcze raz</string>
+    <string name="your_score">Twój wynik:</string>
+    <string name="your_time">Twój czas:</string>
+</resources>
